@@ -2,3 +2,4 @@ Cold and dry, but everything is my favorite color
 Let's add some more stuff here to play with git.
 doing some more shit!
 what else can we even add at this point?
+I'm adding a line because I am partner A
